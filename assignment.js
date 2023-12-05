@@ -27,7 +27,7 @@ function printBack(n1, n2) {
 
 printBack(100, 94);
 
-// 3. A function that sum the values in-between two numbers. eg calcFunc(1,3) returns 6. i.e. 1+2+3.
+// 3. A function that sums the values in between two numbers. eg calcFunc(1,3) returns 6. i.e. 1+2+3.
 function calcNumbers(n1, n2) {
   let total = 0;
   for (let y = n1; y <= n2; y++) {
